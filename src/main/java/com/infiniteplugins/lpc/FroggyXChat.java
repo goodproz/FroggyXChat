@@ -1,4 +1,4 @@
-package com.froggy.chat;
+package com.infiniteplugins.lpc;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
